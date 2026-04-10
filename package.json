@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "test": "node test-addon.js",
-    "test:prod": "node test-addon.js https://stremio-kids-addon.onrender.com"
+    "test:prod": "node test-addon.js https://stremio-kids-addon-ama2.onrender.com"
   },
   "dependencies": {
     "stremio-addon-sdk": "^1.6.10",

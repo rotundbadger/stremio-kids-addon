@@ -12,8 +12,8 @@ A **Stremio addon** that provides children-only content catalogs. It adds 8 cata
 
 | What | URL |
 |------|-----|
-| Addon (live) | https://stremio-kids-addon.onrender.com |
-| Manifest | https://stremio-kids-addon.onrender.com/manifest.json |
+| Addon (live) | https://stremio-kids-addon-ama2.onrender.com |
+| Manifest | https://stremio-kids-addon-ama2.onrender.com/manifest.json |
 | GitHub repo | https://github.com/manuelford/stremio-kids-addon |
 | Render dashboard | https://dashboard.render.com (login as manuelford via GitHub) |
 | Stremio store | Published via `publishToCentral` API |
@@ -145,7 +145,7 @@ The addon is published to Stremio's central addon registry. To re-publish (e.g.,
 ```bash
 curl -X POST "https://api.strem.io/api/addonPublish" \
   -H "Content-Type: application/json" \
-  -d '{"transportUrl":"https://stremio-kids-addon.onrender.com/manifest.json","transportName":"http"}'
+  -d '{"transportUrl":"https://stremio-kids-addon-ama2.onrender.com/manifest.json","transportName":"http"}'
 ```
 
 Expected response: `{"result":{"success":true}}`

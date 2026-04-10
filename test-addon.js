@@ -91,7 +91,7 @@ async function main() {
 
     // Test if TMDB token is set (server would fail to start without it)
     console.log(`   To test against production:`);
-    console.log(`   node test-addon.js https://stremio-kids-addon.onrender.com`);
+    console.log(`   node test-addon.js https://stremio-kids-addon-ama2.onrender.com`);
 }
 
 main().catch(err => {

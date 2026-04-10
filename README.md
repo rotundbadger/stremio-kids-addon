@@ -4,10 +4,10 @@ A Stremio addon that provides age-appropriate movie and TV show catalogs for chi
 
 ## Install
 
-**[Click here to install in Stremio](https://stremio-kids-addon.onrender.com/manifest.json)** or paste this URL in Stremio's addon search bar:
+**[Click here to install in Stremio](https://stremio-kids-addon-ama2.onrender.com/manifest.json)** or paste this URL in Stremio's addon search bar:
 
 ```
-https://stremio-kids-addon.onrender.com/manifest.json
+https://stremio-kids-addon-ama2.onrender.com/manifest.json
 ```
 
 > The free instance spins down after inactivity. The first request after a cold start may take ~30 seconds.
